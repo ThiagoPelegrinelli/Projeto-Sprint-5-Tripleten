@@ -5,7 +5,3 @@ Este aplicativo web foi desenvolvido com objetivo de conclusão da Sprint 5 enti
 Neste projeto utilizamos um conjunto de dados que reúne anúncios de vendas de carros para desenvolver um aplicativo web capaz de gerar histogramas e gráficos de dispersão.
 
 Opcionalmente, busquei aprimorar o app, trazendo a opção de selecionar livremente as colunas, para o usuário ser capaz de analisar todo o conjunto de dados.
-
-
-
-Desenvolvido por Thiago Pelegrinelli
